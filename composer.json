@@ -1,5 +1,5 @@
 {
-    "name": "yiisoft/yii2-tinymce",
+    "name": "kant/yii2-tinymce",
     "description": "Tinymce widget for Yii 2",
     "require": {
         "php": ">=5.4.0"
