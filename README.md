@@ -19,7 +19,7 @@ php composer.phar require --prefer-dist kant/yii2-tinymce
 or add
 
 ```
-"kant/yii2-tinymce": "~0.1"
+"kant/yii2-tinymce": "~0.2"
 ```
 
 to the require-dev section of your `composer.json` file.
